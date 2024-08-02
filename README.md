@@ -13,10 +13,8 @@
 - [💻 Technologies Used](#technologies-used)
 - [⚙️ Setup](#setup)
 - [🚀 How to Play](#how-to-play)
-- [🗂 Project Structure](#project-structure)
-- [🤝 Contributing](#contributing)
 - [📜 License](#license)
-- [📬 Contact](#contact)
+
 
 ## Introduction
 
@@ -42,5 +40,19 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/rock-paper-scissors.git
-
+   git clone https://github.com/harshasenchati/Rock-Paper-Scissors.git
+   ```
+2. **Navigate to the project directory**:
+   ```bash
+   cd Rock-Paper-Scissors 
+   ```
+3. Open index.html
+You can open index.html using your file explorer or a command suitable for your operating system. For Windows, use:
+```
+start  index.html
+```
+Alternatively, you can open index.html manually by double-clicking the file in File Explorer.
+## Usage
+After following the setup steps, your browser should display the Rock-Paper-Scissors  application and you can play . If it doesn’t open automatically, you can manually navigate to index.html in your browser.
+## License
+This project is licensed under the MIT License.
