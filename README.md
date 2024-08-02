@@ -3,8 +3,9 @@
   <p>Welcome to the Rock-Paper-Scissors project! This project replicates the classic game in a fun and interactive way.</p>
 </div>
 <div align="center">
-  <img src="link-to-your-gif.gif" alt="Project Demo">
+  <img src="https://github.com/harshasenchati/Rock-Paper-Scissors/blob/main/rock-paper-record.gif">
 </div>
+
 ## Table of Contents
 
 - [📖 Introduction](#introduction)
